@@ -1,5 +1,5 @@
 
-# Guide pour relier ton projet à GitHub et pousser les modifications
+# Initialisation d'un dépôt
 
 Ce guide t'explique comment relier ton projet local à un dépôt GitHub et pousser tes modifications.
 

@@ -44,7 +44,7 @@ Les commandes seront fournies aussi bien pour **Windows** que pour **Linux**, af
 - Linting et formatage du code
 
 ### 7️⃣ Autres outils
-- Gestion de bases de données (MySQL, PostgreSQL, MongoDB)
+- Gestion de bases de données (MySQL, PHPMyAdmin)
 - Commandes utiles pour Windows & Linux/macOS
 
 ## 🎯 Objectif

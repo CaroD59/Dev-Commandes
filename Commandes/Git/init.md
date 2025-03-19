@@ -89,6 +89,12 @@ Ajoute tous les fichiers à Git avec la commande suivante :
 git add .
 ```
 
+ou 
+
+```sh
+git add -p
+```
+
 Puis, effectue un commit :
 
 ```sh

@@ -119,7 +119,7 @@ git push origin main
 
 ## 8. Vérifier sur GitHub
 
-## Remarque
+⚠️ Remarque
 
 Si tu rencontres une erreur d'authentification, utilise un [token d'accès personnel (PAT)](https://github.com/settings/tokens) au lieu de ton mot de passe :
 

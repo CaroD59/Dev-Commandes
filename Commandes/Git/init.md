@@ -121,4 +121,13 @@ git push origin main
 
 ## Remarque
 
-Si tu rencontres une erreur d'authentification, pense à utiliser un [token d'accès personnel](https://github.com/settings/tokens) au lieu de ton mot de passe.
+Si tu rencontres une erreur d'authentification, utilise un [token d'accès personnel (PAT)](https://github.com/settings/tokens) au lieu de ton mot de passe :
+
+1. Va dans **Paramètres GitHub → Developer settings → Personal access tokens → Tokens (classic)**.
+2. Clique sur **Generate new token → Classic token**.
+3. Donne un nom au token, choisis une date d’expiration, et sélectionne au minimum la permission `repo`.
+4. Clique sur **Generate token** et copie-le immédiatement.
+5. Lors du prochain `git push`, entre ton **nom d’utilisateur GitHub** comme nom d’utilisateur et colle le **PAT** comme mot de passe.
+6. Pour ne pas avoir à le saisir à chaque push, exécute :  
+   ```sh
+   git config --global credential.helper store

@@ -8,6 +8,7 @@ Les commandes seront fournies aussi bien pour **Windows** que pour **Linux**, af
 
 ### 1️⃣ Git - Gestion de version
 - Initialisation d'un dépôt
+- Initialisation d'un dépôt avec SSH
 - Ajout et validation des modifications
 - Gestion des branches
 - Fusion et résolution de conflits

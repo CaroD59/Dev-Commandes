@@ -1,4 +1,4 @@
-# Initialisation d'un dépôt avec SSH
+# Initialisation d'un dépôt Github avec SSH
 
 
 Ce guide explique comment créer un dépôt GitHub et le pousser depuis votre machine locale en utilisant SSH, avec toutes les commandes nécessaires et la gestion des erreurs courantes.
